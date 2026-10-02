@@ -1,4 +1,5 @@
 # apnaCollege-demo
+
 This is my first git hub repo.
 <br>
-Author - Tejas Patil
+Author - Tejas (Apna College)
